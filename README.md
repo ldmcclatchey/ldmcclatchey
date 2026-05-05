@@ -44,4 +44,5 @@ Organization link: https://github.com/Linktech-Engineering-LLC
 ## 🔗 Links
 
 - **LinkedIn:** https://linkedin.com/in/leonmcclatchey  
-- **Website
+- **Website:** https://www.linktechengineering.net  
+- **GitHub:** https://github.com/ldmcclatchey  
