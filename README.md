@@ -2,6 +2,8 @@
 
 I'm an Infrastructure & Systems Engineer specializing in Python automation, Ansible workflows, cross‑platform systems, and diagnostic tooling. My work centers on building deterministic, maintainable automation that improves reliability, reduces manual effort, and supports distributed environments.
 
+[![Sponsor](https://img.shields.io/badge/Sponsor-❤️-ea4aaa?style=flat&logo=github)](https://github.com/sponsors/ldmcclatchey)
+
 ---
 
 ## 🛠️ Tech Stack
@@ -30,14 +32,43 @@ I'm an Infrastructure & Systems Engineer specializing in Python automation, Ansi
 
 ---
 
-## 📌 Featured Work
+## ⭐ Featured Projects
 
-I maintain several public tools under the **Linktech Engineering LLC** organization:
+### 🔹 NMS_Tools  
+A multi‑tool automation suite for diagnostics, monitoring, and systems workflows.  
+Focuses on deterministic behavior, operator‑grade output, and cross‑platform consistency.  
+Repo: https://github.com/Linktech-Engineering-LLC/NMS_Tools
 
-🔹 **NMS_Tools** — multi‑tool automation suite for diagnostics, monitoring, and systems workflows  
-🔹 **VSCode‑Updater** — cross‑platform PowerShell updater for Visual Studio Code  
+### 🔹 VSCode‑Updater  
+A cross‑platform PowerShell updater for Visual Studio Code.  
+Designed for reliability, repeatability, and clean automation workflows.  
+Repo: https://github.com/Linktech-Engineering-LLC/VSCode-Updater
 
-Organization link: https://github.com/Linktech-Engineering-LLC
+---
+
+## 🚧 Currently Building
+
+- Expanding **NMS_Tools** with improved weather, diagnostics, and configuration workflows  
+- Enhancing **VSCode‑Updater** with additional platform logic and validation  
+- Developing internal tooling patterns for future Linktech Engineering utilities  
+
+---
+
+## 🧭 Tooling Philosophy
+
+I build tools that behave predictably, fail loudly, and provide clear operator‑grade output.  
+Automation should reduce cognitive load, not add to it.  
+Cross‑platform consistency, deterministic behavior, and maintainability guide every project I work on.
+
+---
+
+## ❤️ Support My Work
+
+If you find my tools useful or want to support ongoing development, you can sponsor my work here:
+
+**https://github.com/sponsors/ldmcclatchey**
+
+Your support helps fund continued development of automation tools, diagnostics utilities, and cross‑platform engineering projects.
 
 ---
 
