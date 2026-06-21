@@ -1,8 +1,20 @@
 # Leon McClatchey
 
+**Senior Python/Linux Automation Engineer — building deterministic tooling for infrastructure reliability, CI/CD orchestration, and cross‑platform systems.**
+
 I'm an Infrastructure & Systems Engineer specializing in Python automation, Ansible workflows, cross‑platform systems, and diagnostic tooling. My work centers on building deterministic, maintainable automation that improves reliability, reduces manual effort, and supports distributed environments.
 
 [![Sponsor](https://img.shields.io/badge/Sponsor-❤️-ea4aaa?style=flat&logo=github)](https://github.com/sponsors/ldmcclatchey)
+
+---
+
+## ⚡ Highlights
+
+* 10+ years in infrastructure, automation, and cross‑platform systems engineering
+* Deep experience with Python‑based tooling, CI/CD, and deterministic workflows
+* Strong focus on reliability, observability, and operator‑grade output
+* Builder of production‑ready automation for Linux and Windows environments
+* Contributor to Linktech Engineering’s open‑source automation ecosystem
 
 ---
 
@@ -23,12 +35,12 @@ I'm an Infrastructure & Systems Engineer specializing in Python automation, Ansi
 
 ## 🔧 What I Work On
 
-- Python‑based automation and tooling  
-- Ansible playbooks, roles, and Python‑backed modules  
-- Cross‑platform systems engineering (Linux & Windows)  
-- Diagnostic tooling and operator‑grade utilities  
-- Infrastructure automation and workflow orchestration  
-- CI/CD integration and environment consistency  
+* Python automation, CLI tooling, and workflow orchestration
+* Ansible playbooks, roles, and Python‑backed modules
+* Cross‑platform systems engineering (Linux + Windows)
+* Diagnostic utilities and operator‑grade tooling
+* Infrastructure automation and environment consistency
+* CI/CD integration, packaging, and deployment workflow
 
 ---
 
@@ -44,13 +56,19 @@ A cross‑platform PowerShell updater for Visual Studio Code.
 Designed for reliability, repeatability, and clean automation workflows.  
 Repo: https://github.com/Linktech-Engineering-LLC/VSCode-Updater
 
+### 🔹 RunUpdates
+
+A cross‑platform update orchestration tool built in Python for Linux, Windows, and macOS.
+Focuses on deterministic execution, schema‑driven configuration, frozen binary distribution, and reliable update workflows across heterogeneous environments.
+Repo: https://github.com/Linktech-Engineering-LLC/RunUpdates
+
 ---
 
 ## 🚧 Currently Building
 
-- Expanding **NMS_Tools** with improved weather, diagnostics, and configuration workflows  
-- Enhancing **VSCode‑Updater** with additional platform logic and validation  
-- Developing internal tooling patterns for future Linktech Engineering utilities  
+* Expanding NMS_Tools with enhanced diagnostics, weather workflows, and configuration tooling
+* Improving VSCode‑Updater with additional platform logic and validation layers
+* Developing internal automation patterns for future Linktech Engineering utilities
 
 ---
 
@@ -59,6 +77,18 @@ Repo: https://github.com/Linktech-Engineering-LLC/VSCode-Updater
 I build tools that behave predictably, fail loudly, and provide clear operator‑grade output.  
 Automation should reduce cognitive load, not add to it.  
 Cross‑platform consistency, deterministic behavior, and maintainability guide every project I work on.
+
+---
+
+## 💼 Contract Availability
+
+Open to **remote contract and part‑time engagements** focused on:
+
+* Python automation
+* Infrastructure tooling
+* Diagnostic utilities
+* Cross‑platform systems engineering
+* CI/CD and workflow orchestration
 
 ---
 
