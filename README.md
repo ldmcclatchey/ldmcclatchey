@@ -47,19 +47,24 @@ I'm an Infrastructure & Systems Engineer specializing in Python automation, Ansi
 ## ⭐ Featured Projects
 
 ### 🔹 NMS_Tools  
+
 A multi‑tool automation suite for diagnostics, monitoring, and systems workflows.  
 Focuses on deterministic behavior, operator‑grade output, and cross‑platform consistency.  
+
 Repo: https://github.com/Linktech-Engineering-LLC/NMS_Tools
 
 ### 🔹 VSCode‑Updater  
+
 A cross‑platform PowerShell updater for Visual Studio Code.  
 Designed for reliability, repeatability, and clean automation workflows.  
+
 Repo: https://github.com/Linktech-Engineering-LLC/VSCode-Updater
 
 ### 🔹 RunUpdates
 
 A cross‑platform update orchestration tool built in Python for Linux, Windows, and macOS.
 Focuses on deterministic execution, schema‑driven configuration, frozen binary distribution, and reliable update workflows across heterogeneous environments.
+
 Repo: https://github.com/Linktech-Engineering-LLC/RunUpdates
 
 ---
