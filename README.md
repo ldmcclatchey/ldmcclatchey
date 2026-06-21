@@ -111,4 +111,4 @@ Your support helps fund continued development of automation tools, diagnostics u
 
 - **LinkedIn:** https://linkedin.com/in/leonmcclatchey  
 - **Website:** https://www.linktechengineering.net  
-- **GitHub:** https://github.com/ldmcclatchey  
+- **Email:** ldmcclatchey@linktechengineering.net
