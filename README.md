@@ -10,7 +10,7 @@ I'm an Infrastructure & Systems Engineer specializing in Python automation, Ansi
 
 ## ⚡ Highlights
 
-* 10+ years in infrastructure, automation, and cross‑platform systems engineering
+* Extensive experience in infrastructure, automation, and cross-platform systems engineering
 * Deep experience with Python‑based tooling, CI/CD, and deterministic workflows
 * Strong focus on reliability, observability, and operator‑grade output
 * Builder of production‑ready automation for Linux and Windows environments
@@ -25,6 +25,7 @@ I'm an Infrastructure & Systems Engineer specializing in Python automation, Ansi
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?logo=gnu-bash&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
@@ -41,6 +42,17 @@ I'm an Infrastructure & Systems Engineer specializing in Python automation, Ansi
 * Diagnostic utilities and operator‑grade tooling
 * Infrastructure automation and environment consistency
 * CI/CD integration, packaging, and deployment workflow
+
+---
+
+## 🎯 What Makes Me Different
+Most of my work focuses on building tools that operators, administrators, and engineers rely on every day.
+
+I favor deterministic workflows over clever abstractions, clear diagnostics over hidden behavior, and maintainable solutions over unnecessary complexity.
+
+My goal is simple: create software that behaves predictably, scales across heterogeneous environments, and reduces cognitive load for the people who use it.
+
+Whether building monitoring tools, deployment automation, update orchestration, or diagnostic utilities, I approach engineering from the perspective of the operator responsible for running the system at 2 AM.
 
 ---
 
@@ -67,22 +79,38 @@ Focuses on deterministic execution, schema‑driven configuration, frozen binary
 
 Repo: https://github.com/Linktech-Engineering-LLC/RunUpdates
 
+### 🔹 TaskScheduler (In Development)
+A Python/Qt-based cron management application that provides a modern interface for creating, editing, and maintaining scheduled tasks on Linux systems.
+
+Designed to make complex scheduling easier to understand through schedule presets, visual selection tools, and operator-focused workflow improvements.
+
+Status: Active development
+
+Repo: https://github.com/Linktech-Engineering-LLC/TaskScheduler
+
 ---
 
 ## 🚧 Currently Building
 
-* Expanding NMS_Tools with enhanced diagnostics, weather workflows, and configuration tooling
-* Improving VSCode‑Updater with additional platform logic and validation layers
-* Developing internal automation patterns for future Linktech Engineering utilities
+* Expanding NMS_Tools with enhanced diagnostics, weather workflows, configuration tooling, and operator-focused monitoring utilities
+* Improving VSCode-Updater with additional platform logic, validation layers, and deployment resilience features
+* Developing TaskScheduler, a modern Python/Qt cron management application focused on usability, schedule visualization, and operator-friendly workflow design
+* Enhancing the Linktech Engineering website with project showcases, documentation, portfolio content, and engineering resources
+* Developing reusable automation patterns and shared libraries for future Linktech Engineering utilities
 
 ---
 
 ## 🧭 Tooling Philosophy
 
-I build tools that behave predictably, fail loudly, and provide clear operator‑grade output.  
-Automation should reduce cognitive load, not add to it.  
-Cross‑platform consistency, deterministic behavior, and maintainability guide every project I work on.
+I build tools that behave predictably, fail loudly, and provide clear operator-grade output.
 
+Automation should reduce cognitive load, not add to it.
+
+Documentation is a feature.
+Packaging is part of the product.
+A test harness isn't for catching bugs, it's for preventing regressions.
+
+Cross-platform consistency, deterministic behavior, and maintainability guide every project I build.
 ---
 
 ## 💼 Contract Availability
