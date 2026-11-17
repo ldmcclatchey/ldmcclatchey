@@ -111,6 +111,7 @@ Packaging is part of the product.
 A test harness isn't for catching bugs, it's for preventing regressions.
 
 Cross-platform consistency, deterministic behavior, and maintainability guide every project I build.
+
 ---
 
 ## 💼 Contract Availability
