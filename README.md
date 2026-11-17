@@ -96,7 +96,7 @@ Repo: https://github.com/Linktech-Engineering-LLC/TaskScheduler
 * Improving VSCode-Updater with additional platform logic, validation layers, and deployment resilience features
 * Developing TaskScheduler, a modern Python/Qt cron management application focused on usability, schedule visualization, and operator-friendly workflow design
 * Enhancing the Linktech Engineering website with project showcases, documentation, portfolio content, and engineering resources
-* Developing reusable automation patterns and shared libraries for future Linktech Engineering utilities
+* Developing reusable automation patterns, shared libraries, and engineering standards for future Linktech Engineering utilities
 
 ---
 
